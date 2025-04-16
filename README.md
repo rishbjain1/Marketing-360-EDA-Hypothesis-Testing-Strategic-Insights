@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science
 
 # Marketing Campaigns Analysis  
 
